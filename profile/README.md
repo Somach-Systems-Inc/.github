@@ -2,7 +2,7 @@
 
 **Silent speech from cheap surface EMG.**
 
-Subvocalization is a muscle phenomenon, not a brain one. When you articulate a word without sound, your motor cortex still drives the tongue, jaw, hyoid and larynx below the threshold of audible speech. That activity is readable from the skin — no implant, no helmet, no magnetically shielded room.
+Subvocalization is a muscle phenomenon, not a brain one. When you articulate a word without sound, your motor cortex still drives the tongue, jaw, hyoid and larynx below the threshold of audible speech. That activity is readable from the skin MINUS the implant, helmet, and magnetically shielded room (looking at you, Meta's Text2Qwerty).
 
 We build the cheapest open stack that actually reads it.
 
