@@ -26,4 +26,6 @@ The well-funded labs optimise word error rate and never report cost. We think th
 
 ---
 
-*San Francisco. Founded 2026.*
+<a href="https://www.nvidia.com/en-us/startups/"><img src="nvidia-inception-program-badge.svg" alt="Member of the NVIDIA Inception Program" width="140"></a>
+
+*San Francisco. Founded 2026. Member of NVIDIA Inception since October 2026.*
